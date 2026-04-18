@@ -10,7 +10,7 @@ export default function Guarantee() {
           <div className="relative mx-auto mb-5">
             <img
               src="/Logos-garantia-sin-fondo/Hungria-garntia.webp"
-              alt="Garantía"
+              alt={guarantee.alt}
               className="mx-auto h-32 w-auto"
             />
           </div>
